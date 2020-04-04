@@ -1,0 +1,11 @@
+#Entorno virtual
+uccgram/
+
+###
+posts/migrations/__pycache__/
+posts/__pycache__
+
+###
+mongo_project/__pycache__/
+
+
